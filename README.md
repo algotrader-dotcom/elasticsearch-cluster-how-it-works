@@ -1,5 +1,5 @@
 # elasticsearch-cluster-how-it-works
-![alt text](https://www.elastic.co/assets/blt47da469cfb3097c3/cluster-topology.svg)
+![](https://www.elastic.co/assets/blt47da469cfb3097c3/cluster-topology.svg)
 
 ## Questions will be solved
 - How a node in cluster talks to others?
