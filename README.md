@@ -9,8 +9,11 @@
 - What is memory requirement for each node ?
 
 ## What is a cluster of nodes ? 
-- Start a ES instance -> a cluster of single node.
-- Start another ES instance with the same `cluster.name` -> a cluster of 2 nodes.
+- Start a ES instance => a cluster of single node.
+- Start another ES instance with the same `cluster.name` => a cluster of 2 nodes.
+- How nodes talk to each other: `over TCP`
+- How nodes talk to external: `JSON over HTTP`
+
 ## What is role of master/client/data ?
 ## Adding a node to cluster
 ## Removing a node to cluster
