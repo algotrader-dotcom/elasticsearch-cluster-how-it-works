@@ -17,8 +17,17 @@
 
 ## What is role of master/client/data ?
 ### Master
-### Client
+- Create/Delete `indices`
+- Add/Remove `nodes` from cluster
+- Broadcast changes to other nodes
+- Only 1 master node at a time.
+
 ### Data
+- Holding `data` in the shards => CRUD, search, aggregations on `data`
+
+### Client
+- Routing requests to master/data => `smart router`
+
 ## Adding a node to cluster
 ## Removing a node to cluster
 # References:
