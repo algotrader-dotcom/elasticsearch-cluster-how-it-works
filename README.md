@@ -39,5 +39,5 @@
 
 # References:
 - https://medium.com/@duy.do/how-elasticsearch-cluster-works-97d537071b87
-- https://medium.com/google-cloud/a-guide-to-deploy-elasticsearch-cluster-on-google-kubernetes-engine-52f67743ee98
+- http://solutionhacker.com/elasticsearch-architecture-overview/
 - https://www.slideshare.net/PetarDjekic/elasticsearch-101-cluster-setup-and-tuning
