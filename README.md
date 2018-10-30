@@ -37,7 +37,6 @@
 - If removed node is data => the master will re-allocate data.
 - If remove node is master => one of the other master nodes will be elected to be master ( Fault Detection )
 
-## Performance tuning
 # References:
 - https://medium.com/@duy.do/how-elasticsearch-cluster-works-97d537071b87
 - https://medium.com/google-cloud/a-guide-to-deploy-elasticsearch-cluster-on-google-kubernetes-engine-52f67743ee98
