@@ -3,9 +3,9 @@
 
 ## Questions will be solved
 - [x] How a node in cluster talks to others?
-- [ ] What happens when a node joins or leaves the cluster?
-- [ ] What happens when a node stops or has encountered a problem?
-- [ ] What is the role of master/client/data in cluster ?
+- [x] What happens when a node joins or leaves the cluster?
+- [x] What happens when a node stops or has encountered a problem?
+- [x] What is the role of master/client/data in cluster ?
 - [ ] What is memory requirement for each node ?
 
 ## What is a cluster of nodes ? 
