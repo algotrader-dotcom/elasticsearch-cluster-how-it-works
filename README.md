@@ -29,6 +29,8 @@
 - Routing requests to master/data => `smart router`
 
 ## Adding a node to cluster
+It will ping all nodes => find master node => request to join => accepted & joined.
+
 ## Removing a node to cluster
 ## Performance tuning
 # References:
