@@ -39,6 +39,13 @@
 - If remove node is master => one of the other master nodes will be elected to be master ( Fault Detection )
 
 ## How ElasticSearch organizes data ?
+- Elasticsearch as MySQL
+* Index <=> Database
+* Type <=> Table
+* Document <=> Row
+* Field <=> Column
+- Index is one or more `shards` distributed on muliple nodes
+- Number of primary shards can NOT be changed after index created
 
 # References:
 - https://medium.com/@duy.do/how-elasticsearch-cluster-works-97d537071b87
