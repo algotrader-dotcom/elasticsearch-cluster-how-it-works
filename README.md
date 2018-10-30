@@ -2,7 +2,7 @@
 ![](https://www.elastic.co/assets/blt47da469cfb3097c3/cluster-topology.svg)
 
 ## Questions will be solved
-- [ ] How a node in cluster talks to others?
+- [x] How a node in cluster talks to others?
 - [ ] What happens when a node joins or leaves the cluster?
 - [ ] What happens when a node stops or has encountered a problem?
 - [ ] What is the role of master/client/data in cluster ?
