@@ -7,6 +7,7 @@
 - [x] What happens when a node stops or has encountered a problem?
 - [x] What is the role of master/client/data in cluster ?
 - [ ] What is memory requirement for each node ?
+- [ ] How ES organizes data ?
 
 ## What is a cluster of nodes ? 
 - Start a ES instance => a cluster of single node.
@@ -36,6 +37,8 @@
 - The master node will remove this node from cluster, broadcast changes the all nodes.
 - If removed node is data => the master will re-allocate data.
 - If remove node is master => one of the other master nodes will be elected to be master ( Fault Detection )
+
+## How ElasticSearch organizes data ?
 
 # References:
 - https://medium.com/@duy.do/how-elasticsearch-cluster-works-97d537071b87
