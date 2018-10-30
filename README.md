@@ -13,8 +13,12 @@
 - Start another ES instance with the same `cluster.name` => a cluster of 2 nodes.
 - How nodes talk to each other: `over TCP`
 - How nodes talk to external: `JSON over HTTP`
+- Each node can play one or more roles in cluster.
 
 ## What is role of master/client/data ?
+### Master
+### Client
+### Data
 ## Adding a node to cluster
 ## Removing a node to cluster
 # References:
