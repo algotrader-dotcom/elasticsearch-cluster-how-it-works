@@ -40,10 +40,10 @@
 
 ## How ElasticSearch organizes data ?
 - Elasticsearch as MySQL
-* Index <=> Database
-* Type <=> Table
-* Document <=> Row
-* Field <=> Column
+  * Index <=> Database
+  * Type <=> Table
+  * Document <=> Row
+  * Field <=> Column
 - Index is one or more `shards` distributed on muliple nodes
 - Number of primary shards can NOT be changed after index created
 
