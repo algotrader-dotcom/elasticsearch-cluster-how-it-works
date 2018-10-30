@@ -10,7 +10,7 @@
 
 ## What is a cluster of nodes ? 
 - Start a ES instance -> a cluster of single node.
-- Start another ES instance with same `cluster.name` -> a cluster of 2 nodes.
+- Start another ES instance with the same `cluster.name` -> a cluster of 2 nodes.
 ## What is role of master/client/data ?
 ## Adding a node to cluster
 ## Removing a node to cluster
