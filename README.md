@@ -9,7 +9,8 @@
 - What is memory requirement for each node ?
 
 ## What is a cluster of nodes ? 
-- <p>Start a ES instance -> a cluster of single node</p>
+- Start a ES instance -> a cluster of single node.
+- Start another ES instance with same `cluster.name` -> a cluster of 2 nodes.
 ## What is role of master/client/data ?
 ## Adding a node to cluster
 ## Removing a node to cluster
