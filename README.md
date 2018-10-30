@@ -11,7 +11,7 @@
 ## What is a cluster of nodes ? 
 - Start a ES instance => a cluster of single node.
 - Start another ES instance with the same `cluster.name` => a cluster of 2 nodes.
-- How nodes talk to each other: `over TCP`
+- How nodes talk to each other: `Over TCP`
 - How nodes talk to external: `JSON over HTTP`
 - Each node can play one or more roles in cluster.
 
