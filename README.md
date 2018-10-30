@@ -1,4 +1,4 @@
-# elasticsearch-cluster-how-it-works
+# Elasticsearch Cluster - How It Works
 ![](https://www.elastic.co/assets/blt47da469cfb3097c3/cluster-topology.svg)
 
 ## Questions will be solved
