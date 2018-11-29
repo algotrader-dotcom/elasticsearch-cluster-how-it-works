@@ -1,4 +1,6 @@
 # Elasticsearch Cluster - How It Works
+https://blog.techblogsearch.com/2018/11/29/elasticsearch-cluster-understanding-how-it-works/
+
 ![](https://www.elastic.co/assets/blt47da469cfb3097c3/cluster-topology.svg)
 
 ## Questions will be solved
